@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Dad.png"><SubTexture name="Dad idle dance0000" x="0" y="0" width="644" height="644" frameX="0" frameY="0" frameWidth="644" frameHeight="644" />
+<SubTexture name="Dad Sing Note RIGHT0000" x="644" y="0" width="644" height="644" frameX="0" frameY="0" frameWidth="644" frameHeight="644" />
+<SubTexture name="Dad Sing Note DOWN0000" x="1288" y="0" width="644" height="644" frameX="0" frameY="0" frameWidth="644" frameHeight="644" />
+<SubTexture name="Dad Sing Note UP0000" x="1932" y="0" width="644" height="684" frameX="0" frameY="0" frameWidth="644" frameHeight="684" />
+<SubTexture name="Dad Sing Note LEFT0000" x="0" y="684" width="644" height="649" frameX="0" frameY="0" frameWidth="644" frameHeight="649" />
+</TextureAtlas>
